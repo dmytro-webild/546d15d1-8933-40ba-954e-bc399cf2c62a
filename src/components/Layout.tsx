@@ -103,7 +103,7 @@ export default function Layout() {
           href: "#",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/detail-baked-bread-slices_23-2148074084.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/detail-baked-bread-slices_23-2148074084.jpg?_wi=2"
     />
       </SectionErrorBoundary>
     </StyleProvider>
