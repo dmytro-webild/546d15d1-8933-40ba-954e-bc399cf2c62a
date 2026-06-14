@@ -95,7 +95,7 @@ export default function HomePage() {
           title: "Sourdough",
           description: "Naturally leavened and fermented.",
           href: "#",
-          imageSrc: "http://img.b2bpic.net/free-photo/detail-baked-bread-slices_23-2148074084.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/detail-baked-bread-slices_23-2148074084.jpg?_wi=1",
         },
         {
           title: "Croissants",
