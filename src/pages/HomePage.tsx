@@ -14,7 +14,7 @@ export default function HomePage() {
     <SectionErrorBoundary name="hero">
           <HeroSplitVerticalMarquee
       tag="Daily Freshness"
-      title="Handcrafted Goodness, Baked Fresh Daily"
+      title="Handcrafted"
       description="Discover our artisan breads, pastries, and custom cakes made with premium ingredients. Order online or visit us for same-day pickup."
       primaryButton={{
         text: "Order Now",
